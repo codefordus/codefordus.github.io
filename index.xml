@@ -6,11 +6,7 @@
     <description>Recent content on Code for Düsseldorf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://codefordus.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://codefordus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trinkwasseranalyse</title>
       <link>https://codefordus.github.io/projekte/trinkwasseranalyse/</link>
@@ -95,7 +91,7 @@ Schau einfach einmal bei einem der nächsten Treffen im OK Lab Düsseldorf vorbe
       
       <guid>https://codefordus.github.io/mitmachen/schreiben/</guid>
       <description>Vielleicht nutzt Du selbst bereits offene Daten von Verwaltungen oder aus Projekten von Code for Germany für Deine journalistische Arbeit oder berichtest über interessante Erkenntnisse und Zusammenhänge, die durch solche Anwendungen offen gelegt werden.
-Du willst wissen, wie Offene Daten als Werkzeug bei der Recherche genutzt werden können und wie durch diese Daten Transparenz geschaffen werden kann? Komm&amp;rsquo; vorbei und erzähle uns von Deinen Projekten oder Ideen!
+Du willst wissen, wie Offene Daten als Werkzeug bei der Recherche genutzt werden können und wie durch diese Daten Transparenz geschaffen werden kann? Komm&#39; vorbei und erzähle uns von Deinen Projekten oder Ideen!
 Je mehr Menschen vom Projekt Code for Germany erfahren, desto besser!</description>
     </item>
     
